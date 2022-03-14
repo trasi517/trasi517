@@ -4,7 +4,7 @@ proxies:
    server: 104.16.66.85
    port: 443
    password: PASS_SERVER
-   udp: false
+   udp: true
    sni: BUG_SNI
    skip-cert-verify: true
    network: ws
