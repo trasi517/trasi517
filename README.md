@@ -2,7 +2,9 @@
 Tampilan
 Muhammad Quillen
 
-Install
+https://github.com/trasi517/trasi517
+#install
+
 apt update && apt install upgrade -y
 
 apt install git -y
