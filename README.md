@@ -7,7 +7,7 @@ apt update && apt install upgrade -y
 
 apt install git -y
 
-git clone https://github.com/lycoxz/ClashForTermux.git
+git clone https://github.com/trasi517/trasi517
 
 cd ClashForTermux && bash install.sh
 
