@@ -2,8 +2,7 @@
 Tampilan
 Muhammad Quillen
 
-https://github.com/trasi517/trasi517
-#install
+https://github.com/trasi517/trasi517#install
 
 apt update && apt install upgrade -y
 
