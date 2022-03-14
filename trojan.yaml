@@ -1,0 +1,12 @@
+proxies:
+ - name: "Trojan"
+   type: trojan
+   server: 104.16.66.85
+   port: 443
+   password: PASS_SERVER
+   udp: false
+   sni: BUG_SNI
+   skip-cert-verify: true
+   network: ws
+   ws-opts:
+     path: /howdy
